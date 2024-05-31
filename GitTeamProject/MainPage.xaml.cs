@@ -11,6 +11,10 @@ public partial class MainPage : ContentPage
     {
 
     }
+	static void OnCounterClicked()
+	{
+
+	}
 }
 
 
