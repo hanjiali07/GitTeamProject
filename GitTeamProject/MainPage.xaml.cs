@@ -6,6 +6,11 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+	static void OnCounterClicked()
+	{
+
+	}
 }
 
 
